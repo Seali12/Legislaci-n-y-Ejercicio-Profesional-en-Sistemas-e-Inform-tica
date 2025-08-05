@@ -9,6 +9,8 @@ Es una materia muy boluda (al pedo a mi parecer pero we) te explican las leyes p
 Son 10 choice separados con alrededor de 5 minutos de resolucion cada uno, se aprueban con 5 creo (la nota de cada choice), misma modalidad presencial/virtual, pero aca hay un chabon que llega medio tarde que se pone atras de todo y mira las compus, asi que recomeindo llegar temprano y empezar antes asi te sacas los maximos choices rapido, cada choice tiene como 5 o 10 preguntas y te dan el tiempo acorde a eso, si fallas en un choice perdes el final por eso no podes fallar ningun choice, las preguntas ya estan hechas en este repo, dividan pantalla y hagan lo mismo q el parcial luego de eso hay dos opciones, si hay mucha gente que aprobo todo, se van a un escrito y si hay pocos es un oral de toda la materia por arriba mas que nada, definiciones de algunas cosas de la primer parte, y otra de la segunda, recomiendo estudiar para el final no para el parcial
 ### Extra
 - El resumen es perfecto para estudiar para el final y parcial, mas que nada para el oral, fue hecho con toda la info de las ppts (hay extractos exactos y despues con info de internet), aparte fue hecho por mi papaaaaaaaaa
+- Campus1: https://campusgrado.fi.uba.ar/course/view.php?id=1336
+- Campus2: https://campusgrado.fi.uba.ar/course/view.php?id=588&section=0
 - Clases grabadas: https://youtube.com/playlist?list=PLjzhyXsU-ygyHZ7JYutZlyDB0w_dYwwwk&si=tbfsANWph3cOPZWT (se agradece el sub, para ser youtuber :/)
 - cualquier cosa pongan un coment en un video y respondo
 # SUERTE
